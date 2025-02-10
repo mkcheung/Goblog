@@ -4,3 +4,10 @@ app:
 server:
   host: "localhost"
   port: "8080"
+
+db:
+  username: "root"
+  password: "themoralarc1883"
+  host: "localhost"
+  port: "3306"
+  name: "Goblog"
